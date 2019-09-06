@@ -16,9 +16,11 @@ example:
 java -jar ImPred.jar --inputgraph='Tn.dot' --edgerepulsion=10 --nodenodeattraction=10 --edgenoderepulsion=10 --iterations=300
 
 
-## Authors
-Felice De Luca, University of Arizona
-https://github.com/felicedeluca
+## Credits
+Paolo Simonetto
+
+Adapted by
+Felice De Luca
 
 See also the list of contributors who participated in this project.
 
